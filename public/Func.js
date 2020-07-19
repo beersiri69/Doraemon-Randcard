@@ -45,6 +45,7 @@ function Update_Card(){
     Cardleft--;  
     document.getElementById("Cardleft").innerHTML = Cardleft;
     imgElem.src = "PNG/"+ card[Randnum] +".jpg";
+    //console.log("PNG/"+ card[Randnum] +".jpg");
 }
 
 
@@ -52,7 +53,7 @@ function Resetall(){
     Randnum_Used = []
     Cardleft = 52;
     imgElem.src = "PNG/red_back.jpg"    
-    location.reload();
+    //location.reload();
     alert("Reset!!");
     //console.log(Randnum_Used);
 }
