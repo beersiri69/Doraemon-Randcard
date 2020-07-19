@@ -10,9 +10,9 @@ Why Random card?
 ------------
 Before it came to random card, It's have a game in hang out party called :pushpin:["Doraemon-Game"](#DoraemonGame) that play in many party for fun. But the problem is "Who have card deck with perfect 52 card". So this application will fix this problem just add it on your mobile phone.
 
-Install
+Installation
 ------------
-Because it's a PWA you don't need to use familiar way to install something in your mobile phone. Just do following these step to :pushpin:[install this application](#Installation)
+Because it's a PWA you don't need to use familiar way to install something in your mobile phone. Just do following these step to :pushpin:[install this application](#InstallationGuide)
 
 Realtime
 ------------
@@ -55,14 +55,14 @@ The "Service Worker" is necessary to make our webpage be a PWA. It's will run in
 
 ---
 
-# Installation
+# InstallationGuide
 
 IOS
 --------------
 Installation Guide for IOS user
 
 ![img](Img/ios1.jpg)![img](Img/ios2.jpg)![img](Img/ios3.jpg)<br>
-1. Open this link with Safari https://card-random.firebaseapp.com/
+1. Open this link with Safari https://doraemon-randcard.web.app/
 2. Choose Add to home screen
 3. Add
 
@@ -72,7 +72,7 @@ Android
 Installation Guide for Android user
 
 ![img](Img/An1.jpg)![img](Img/An2.jpg)![img](Img/An3.jpg)<br>
-1. Open this link with Chrome or default browser https://card-random.firebaseapp.com/
+1. Open this link with Chrome or default browser https://doraemon-randcard.web.app/
 2. Choose Add to home screen
 3. Add
    
