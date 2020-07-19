@@ -52,6 +52,7 @@ function Update_Card(){
 function Resetall(){
     Randnum_Used = []
     Cardleft = 52;
+    document.getElementById("Cardleft").innerHTML = Cardleft;
     imgElem.src = "PNG/red_back.jpg"    
     //location.reload();
     alert("Reset!!");
