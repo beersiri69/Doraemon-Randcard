@@ -27,7 +27,16 @@
     </div>
 
 
-<script src="Func.js">
-</script>
+<script src="Func.js"></script>
+
+  <script type="text/javascript">
+    if('serviceWorker' in navigator){
+      navigator.serviceWorker.register('/sw.js')
+      .then(function() { 
+        console.log('Service worker Regsitered'); 
+      });
+    }
+  </script>
+
   </body>
 </html>
