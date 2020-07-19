@@ -44,14 +44,14 @@ function RandomValue(){
 function Update_Card(){   
     Cardleft--;  
     document.getElementById("Cardleft").innerHTML = Cardleft;
-    imgElem.src = "PNG/"+ card[Randnum] +".png";
+    imgElem.src = "PNG/"+ card[Randnum] +".jpg";
 }
 
 
 function Resetall(){
     Randnum_Used = []
     Cardleft = 52;
-    imgElem.src = "PNG/red_back.png"    
+    imgElem.src = "PNG/red_back.jpg"    
     location.reload();
     alert("Reset!!");
     //console.log(Randnum_Used);
