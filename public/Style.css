@@ -1,0 +1,45 @@
+body{
+    background-color: #f8efba;
+  }
+  img,button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em;
+  width: 150px;
+  }
+  .RandBtn{
+    outline: none;
+    padding: 2em;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 0.7em;
+  }
+  .RandBtn:active{
+    background-color: rgb(93, 212, 172);
+  }
+  .Rstbtn{
+    outline: none;
+    padding: 2em;
+    background-color: #eb92a8;
+    border: none;
+    border-radius: 0.7em;
+    margin-top: 1em;
+  }
+  .Rstbtn:active{
+    background-color: #ce778c;
+  }
+  .foot{
+    position:absolute;
+    bottom: 0.8em;
+    text-align: center;
+    width: 100%;
+    
+  }
+
+  .foot a{
+    color: #b9b9b9;
+
+  }
+
+ 
