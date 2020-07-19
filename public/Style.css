@@ -16,7 +16,7 @@ body{
     border-radius: 0.7em;
   }
   .RandBtn:active{
-    background-color: rgb(93, 212, 172);
+    background-color: #5dd4ac;
   }
   .Rstbtn{
     outline: none;
